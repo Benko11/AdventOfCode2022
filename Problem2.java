@@ -55,7 +55,7 @@ public class Problem2 {
 
         if (right == 'Z') {
             if (left == 'A') score += 2;
-            if (left == 'B') score += 3;
+            if (left == 'B') score += 3
             if (left == 'C') score += 1;
             score += 6;
 
